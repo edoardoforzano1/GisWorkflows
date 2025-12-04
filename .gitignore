@@ -1,0 +1,4 @@
+# Ignore large model files and output folders
+detect_deep_learning/output/
+*.pth
+*.h5
